@@ -1002,6 +1002,16 @@ INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\main.out
+INPUT main.out
+INPUT .\main.out
+INPUT main.out
+INPUT .\main.out
+INPUT main.out
+INPUT .\main.out
+INPUT main.out
+INPUT .\main.out
+INPUT .\main.out
 OUTPUT main.out
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
@@ -1061,8 +1071,8 @@ INPUT C:\Users\jey\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
-INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
@@ -1070,6 +1080,8 @@ INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmex10.pf
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmex10.pfb
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi6.pfb
+INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi6.pfb
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\jey\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
