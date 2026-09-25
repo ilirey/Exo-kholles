@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790322364.46835 "c:/Users/jey/OneDrive/Documents/GitHub/Exo-kholles/main.tex" "main.pdf" "main" 1790322366.19068 0
+["pdflatex"] 1790346198.54656 "c:/Users/jey/OneDrive/Documents/GitHub/Exo-kholles/main.tex" "main.pdf" "main" 1790346200.46332 0
   "C:/Users/jey/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1790180215 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/jey/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1782667144 10787066 0c7e70f63b4d3d75f5c0bf218c315539 ""
   "C:/Users/jey/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -201,11 +201,11 @@
   "C:/Users/jey/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/jey/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jey/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Exos/kholles1.tex" 1790322363 4391 4ed69a48679fcf4356d97eb12ebd87b6 ""
-  "c:/Users/jey/OneDrive/Documents/GitHub/Exo-kholles/main.tex" 1790275819 335 50ac0e06c9549942394ac8eae682b313 ""
-  "main.aux" 1790322365 554 dd2b48f1aba1e3b725040b4d3abf7fbe "pdflatex"
-  "main.out" 1790322365 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1790275819 335 50ac0e06c9549942394ac8eae682b313 ""
+  "Exos/semaine1.tex" 1790345753 4391 4ed69a48679fcf4356d97eb12ebd87b6 ""
+  "c:/Users/jey/OneDrive/Documents/GitHub/Exo-kholles/main.tex" 1790346197 335 478b1d5e61ebafb6a0b52f42b67654e1 ""
+  "main.aux" 1790346200 554 dd2b48f1aba1e3b725040b4d3abf7fbe "pdflatex"
+  "main.out" 1790346200 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1790346197 335 478b1d5e61ebafb6a0b52f42b67654e1 ""
   "preambule.tex" 1790322363 3193 7a4b422292da3f1cbf4cb47a6bc00893 ""
   (generated)
   "main.aux"
