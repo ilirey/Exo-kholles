@@ -1,0 +1,93 @@
+\documentclass[11pt,a4paper]{article}
+
+\input{../preambule}
+
+\begin{document}
+
+\title{Semaine 5}
+\author{}
+\date{02/11 - 08/11 }
+
+\maketitle
+
+\begin{exercise}
+Trouver toutes les fonctions $f:\N\to\N$ telles que
+$$\forall n\in\N, f(n)+f(f(n))+f(f(f(n)))=3n$$
+\end{exercise}
+
+\begin{exercise}
+On souhaite trouver toutes les fonctions $f:\R\to\R$ surjectives et strictement croissantes
+ telles que $\forall x\in\R, f(x)+f^{-1}(x)=2x$.
+\begin{questions}
+\item Montrer que $f^{-1}$ est bien définie et exhiber une solution particulière.
+\item On suppose qu'il existe $t\in\R$ tel que $f(t)\gt t$. On pose $a=f(t)-t$.
+    \begin{questions}
+    \item Montrer que $\forall n\in\Z, f(t+na)=t+(n+1)a$.
+    \item Soit $x\in\R$ tel que $x$ n'est pas de la forme $t+na, n\in\Z$.
+        \begin{questions}
+        \item Justifier que $f(x)\gt x$.
+        \item On note $b=f(x)-x$. Montrer que $\forall n\in\Z, f(x+nb)=x+(n+1)b$.
+        \item Montrer que $a=b$.
+        \end{questions}
+    \end{questions}
+\item Conclure.
+\end{questions} 
+\end{exercise}
+
+\begin{exercise}
+Trouver toutes les relations d'équivalence $R$ sur $\N$ telles que: 
+$$\forall n,m\in\N, nRm\implies (n+1)R(m+1)$$
+\end{exercise}
+
+\begin{exercise}
+Soit $A,B$ des ensembles.
+On définit la relation $\preceq$ sur les cardinaux des ensembles par:
+$$|A|\preceq |B|\text{ ssi il existe une injection de $A$ dans $B$}$$
+\begin{questions}
+\item Montrer que $\preceq$ est une relation d'ordre.
+\item Montrer que $|\N^{\N}|=|\R|=|P(\N)|$.
+\item Que dire de $|\R|$ et $|\R^{\R}|$
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+Soit $f:\C^*\to \C$ définie par $\forall z\in\C^*, f(z)=\frac{1}{z}$.
+\begin{questions}
+\item $f$ est-elle injective? surjective?
+\item On considère deux ensembles:
+$$E=\set{z\in\C| |z-1|=1}, F=\set{z\in\C|\Re(z)=\frac{1}{2}}$$
+\begin{questions}
+\item Déterminer la nature géométrique de $E$ et $F$.
+\item Montrer que $f(E\setminus\set{0})\subset F$.
+\item Montrer que $f$ induit une bijection de $E$ sur $F$.
+\end{questions}
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+Soient $E$ un ensemble non vide et $f:E\to E$. 
+Pour tous $A,B\in P(E)$, on note $A\Delta B=(A\cup B)\setminus(A\cap B)$.
+\begin{questions}
+\item Montrer que $\forall A,B\in P(E), f^{-1}(A\Delta B)=f^{-1}(A)\Delta f^{-1}(B)$.
+\item Montrer que $\forall A,B\in P(E), f(A)\Delta f(B)\subset f(A\Delta B)$. 
+A quelle condition, sur $f$, a-t-on égalité?
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+Soit $f:\R\to \R$. On définit une relation $\le_f$ sur $\R$ par:
+$$\forall x,y\in\R, x\le_f y \iff f(y)-f(x)\ge|y-x|$$
+\begin{questions}
+\item Montrer que $\le_f$ est une relation d'ordre.
+\item Montrer que $\le_f$ est totale ssi:
+$$\forall x,y\in\R, |f(y)-f(x)|\ge|y-x|$$
+\item A quoi la relation $\le_{Id_{\R}}$ est-elle égale?
+\end{questions}
+\end{exercise}
+
+
+
+
+
+
+\end{document}
