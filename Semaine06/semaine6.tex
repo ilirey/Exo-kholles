@@ -55,6 +55,83 @@ Calculer $\displaystyle\sum_{x=0}^{p-1} x^k\pmod{p}$ selon la valeur de $k$.
 Soit $n\in\N$. Calculer $v_2(5^{2^n}-1)$
 \end{exercise}
 
+\begin{exercise}
+Soit $A\subset\mathbb{N}$ une partie stable par addition.
+Montrer qu'à un nombre fini d'éléments près,
+$A=k\mathbb{N}$ pour un certain $k\in\mathbb{N}$.
+\end{exercise}
+
+\begin{exercise}
+On note $\varphi(n)$ le nombre d'entiers naturels inférieurs
+à $n$ et premiers avec $n$.
+
+On admet que $\varphi$ est multiplicative :
+\[
+    \gcd(n,m)=1
+    \implies
+    \varphi(nm)=\varphi(n)\varphi(m).
+\]
+On pose, pour $n\in\mathbb{N}^*$,
+\[
+    f(n)=\sum_{d\mid n}\varphi(d).
+\]
+\begin{questions}
+    \item Montrer que $f$ est multiplicative.
+    \item En déduire que $f=\operatorname{id}_{\mathbb{N}^*}$.
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+\begin{questions}
+    \item Calculer, pour $n\in\mathbb{N}$,
+    \[
+        v_2\left(5^{2^n}-1\right).
+    \]
+    \item Soit $p$ un nombre premier impair.
+    Comment se comporte la suite
+    \[
+        \left(v_p\left(5^{2^n}-1\right)\right)_{n\in\mathbb{N}}\,?
+    \]
+    \item Calculer explicitement cette suite pour $p=3$.
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+Calculer, pour $n\in\mathbb{N}$,
+\[
+    10^{10^n}\pmod{7}.
+\]
+\end{exercise}
+
+\begin{exercise}
+Montrer que, pour tous $k,n\in\mathbb{N}$,
+\[
+    (n!)^k\mid(nk)!.
+\]
+\end{exercise}
+
+\begin{exercise}
+Soit $p$ un nombre premier.
+\begin{questions}
+    \item Montrer que, pour $1\le k<p$,
+    \[
+        k\mid\binom{p}{k}.
+    \]
+    \item Plus généralement, calculer, pour
+    $n\in\mathbb{N}^*$ et $1\le k\le p^n$,
+    \[
+        v_p\left(\binom{p^n}{k}\right).
+    \]
+\end{questions}
+\end{exercise}
+
+\begin{exercise}
+On pose, pour $n\in\mathbb{N}^*$,
+\[
+    f(n)=\prod_{\substack{d\mid n\\d\ne n}}d.
+\]
+Résoudre l'équation $f(n)=n$.
+\end{exercise}
 
 
 
